@@ -1,10 +1,10 @@
 from PIL import Image
 
 # Adjust parameters here
-image_file_names = ["site1.png", "site2.png", "site3.png"]
+image_file_names = ["site1.png", "site2.png", "site3_new.png"]
 output_overlay_image_name = "../toki pona dotted.png"
-image_place_location_x = [732, 1680, 380]
-image_place_location_y = [325, 212, 1810]
+image_place_location_x = [732, 1680, 1809]
+image_place_location_y = [325, 212, 1254]
 canvas_width = 2000
 canvas_height = 2000
 file_name = ""
